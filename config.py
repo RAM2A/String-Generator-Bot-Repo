@@ -1,8 +1,8 @@
-API_ID = "26482070"
-API_HASH = "28f1d67e2693e057ae4611521c555136"
+API_ID = "24665357"
+API_HASH = "beb7e4b83ada668fa85f9a9b56338f1d"
 
-BOT_TOKEN = "6557432874:AAGywcrSYYwKE9o_r3foRzfVM6khPLgPMxk"
-OWNER_ID = "6441456023"
+BOT_TOKEN = "7040213172:AAELc-DaZ7_ROVqfVejkE_t0jy00trExCc4"
+OWNER_ID = "1717511106"
 
-MONGO_DB_URI = "mongodb+srv://knight_rider:GODGURU12345@knight.jm59gu9.mongodb.net/?retryWrites=true&w=majority"
+MONGO_DB_URI = "mongodb+srv://subham94mii2:7wRYh7ylrGEsFGkP@busybot.oskm6vj.mongodb.net/?retryWrites=true&w=majority&appName=busybot"
 MUST_JOIN = "dev_gagan"
